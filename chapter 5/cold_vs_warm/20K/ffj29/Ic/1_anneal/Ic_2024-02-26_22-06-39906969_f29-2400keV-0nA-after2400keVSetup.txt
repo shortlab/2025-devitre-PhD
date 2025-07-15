@@ -1,0 +1,2 @@
+# Ic = 4.42 A, n = 25.93 , Tavg = 19.96 K, f29-2400keV-0nA-after2400keVSetup
+#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K

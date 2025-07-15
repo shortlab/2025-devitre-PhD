@@ -1,0 +1,2 @@
+# Tc_lossless =  nan K, Tc_50 =  nan K, Tc_superconducting =  nan K, step2
+#idx    t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K

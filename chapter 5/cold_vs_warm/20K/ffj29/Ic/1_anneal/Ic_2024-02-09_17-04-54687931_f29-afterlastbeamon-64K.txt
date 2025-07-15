@@ -1,0 +1,2 @@
+# Ic = 0.41 A, n = 18.32 , Tavg = 63.77 K, f29-afterlastbeamon-64K
+#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K

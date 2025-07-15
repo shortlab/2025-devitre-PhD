@@ -1,0 +1,3 @@
+# Ic =  nan A, n =  nan , Tavg = 77.28 K, f29-pristine-1200keV-3e20-77K
+#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K
+0202-02-08_18:08:41.816000      12191.52        2.13980200e-02        2.80597780e-05  77.2832  75.7756

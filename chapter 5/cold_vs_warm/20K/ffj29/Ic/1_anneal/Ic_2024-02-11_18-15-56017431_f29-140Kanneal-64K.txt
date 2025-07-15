@@ -1,0 +1,2 @@
+# Ic = 0.46 A, n = 17.20 , Tavg = 63.87 K, f29-140Kanneal-64K
+#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K

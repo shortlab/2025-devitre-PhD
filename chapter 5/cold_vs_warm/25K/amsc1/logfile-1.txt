@@ -1,0 +1,839 @@
+2022-10-17 01:17:19.128060    	SessionStart   	New session started: What experiments are you conducting today?                                     
+2022-10-17 01:17:25.732937    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-17 01:17:25.760096    	SessionStart   	New session started: What experiments are you conducting today?                                     
+2022-10-17 01:17:26.938595    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-17 01:18:04.781746    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:19:21.158046    	SessionStart   	Continued after GUI restart: What experiments are you conducting today?                             
+2022-10-17 01:19:22.565396    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-17 01:24:22.692617    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:29:22.693751    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:34:22.691811    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:39:22.716903    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:44:22.690761    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:46:15.447776    	CoolingModeSet 	1                                                                                                   
+2022-10-17 01:46:15.448342    	TempSet        	20.00 K                                                                                             
+2022-10-17 01:46:31.535969    	TempSet        	300.00 K                                                                                            
+2022-10-17 01:49:22.694201    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:54:22.699484    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 01:59:22.696042    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:04:22.760365    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:09:22.693293    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:14:22.694714    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:19:22.693215    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:24:22.696305    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:29:22.693319    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:34:22.691356    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:39:22.693000    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:44:22.702459    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:49:22.694177    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:54:22.692363    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 02:59:22.696560    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:04:22.704370    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:09:22.695079    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:12:42.041421    	ShutterToggle  	Open = True                                                                                         
+2022-10-17 03:14:22.705155    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:19:22.702449    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:24:22.693612    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:29:22.728780    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:34:22.692482    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:39:22.693548    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:44:22.692978    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:49:22.697834    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:54:22.721018    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 03:59:22.726531    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:04:22.695800    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:09:22.693346    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:14:22.722180    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:19:22.709362    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:24:22.730606    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:29:22.703426    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:34:22.697625    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:39:22.698233    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:44:22.694379    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:49:22.693165    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:54:22.706966    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 04:59:22.693507    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:04:22.730926    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:09:22.714432    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:14:22.728586    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:19:22.730842    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:24:22.751233    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:29:22.694805    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:34:22.696324    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:39:22.694321    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:44:22.727635    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:49:22.730799    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:54:22.694546    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 05:59:22.729392    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:04:22.697752    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:09:22.726336    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:14:22.731214    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:19:22.696999    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:24:22.735718    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:29:22.702961    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:34:22.734179    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:39:22.726247    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:44:22.698952    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:49:22.698861    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:54:22.738785    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 06:59:22.743464    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:04:22.727646    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:09:23.144221    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:14:22.744231    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:17:38.751264    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:18:53.565606    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:19:20.211307    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.23 K, 20K                                                         
+2022-10-17 07:19:20.772841    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:19:22.698767    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:21:28.830119    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:21:56.130621    	Ic             	Ic = 20.51 A, n = 1.78 , Tavg = 25.24 K, 20K                                                        
+2022-10-17 07:21:56.732109    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:22:23.590981    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:22:50.289489    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.25 K, 20K                                                         
+2022-10-17 07:22:50.840974    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:23:19.865255    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:23:42.186937    	Ic             	Ic = 58.20 A, n = 11.74 , Tavg = 25.37 K, 20K                                                       
+2022-10-17 07:23:42.730960    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:23:58.697819    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:24:21.265035    	Ic             	Ic = 57.58 A, n = 10.71 , Tavg = 25.36 K, 20K                                                       
+2022-10-17 07:24:21.835148    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:24:22.699347    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:25:14.849453    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:25:37.287614    	Ic             	Ic = 50.97 A, n = 6.89 , Tavg = 25.15 K, 20K                                                        
+2022-10-17 07:25:37.756975    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:26:14.898890    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:30:33.067823    	SessionStart   	Continued after GUI restart: What experiments are you conducting today?                             
+2022-10-17 07:30:34.320209    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-17 07:31:05.329562    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:31:34.811950    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.05 K, pristine20K                                                 
+2022-10-17 07:31:35.375948    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:32:15.431509    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:32:44.028715    	Ic             	Ic = 52.03 A, n = 8.32 , Tavg = 25.33 K, pristine20K                                                
+2022-10-17 07:32:44.592677    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:33:35.343632    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:34:01.341415    	Ic             	Ic = 53.88 A, n = 8.39 , Tavg = 25.34 K, pristine20K                                                
+2022-10-17 07:34:01.988145    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:34:48.332606    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:35:17.189124    	Ic             	Ic = 49.32 A, n = 7.91 , Tavg = 25.38 K, pristine20K                                                
+2022-10-17 07:35:17.821882    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:35:34.876760    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:35:57.291143    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:36:36.895471    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.25 K, pristine20K                                                 
+2022-10-17 07:36:37.654949    	IcSequenceComplete	                                                                                                    
+2022-10-17 07:37:26.777102    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 07:40:34.522804    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:45:34.487135    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:50:34.485992    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 07:55:34.512101    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:00:34.488424    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:05:34.510394    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:10:34.500712    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:12:37.856421    	Tc             	Tcl =  nan K, Tc50 = 1.97 K, Tcs = 0.00 K, pr                                                       
+2022-10-17 08:15:34.491463    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:20:34.516312    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:25:34.908179    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:30:34.487613    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:31:25.409290    	CoolingModeSet 	1                                                                                                   
+2022-10-17 08:31:25.410135    	TempSet        	77.00 K                                                                                             
+2022-10-17 08:35:34.514977    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:40:34.489753    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:45:34.530591    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:45:40.497767    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:46:13.895094    	Ic             	Ic =  nan A, n =  nan , Tavg = 79.59 K, pristine77K                                                 
+2022-10-17 08:46:14.409837    	IcSequenceComplete	                                                                                                    
+2022-10-17 08:46:38.733162    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:47:11.977693    	Ic             	Ic =  nan A, n =  nan , Tavg = 79.54 K, pristine77K                                                 
+2022-10-17 08:47:12.505867    	IcSequenceComplete	                                                                                                    
+2022-10-17 08:47:30.380848    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:48:03.091956    	Ic             	Ic = 0.93 A, n = 1.08 , Tavg = 79.55 K, pristine77K                                                 
+2022-10-17 08:48:24.273230    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:48:57.456542    	Ic             	Ic = 0.72 A, n = 1.08 , Tavg = 79.55 K, pristine77K                                                 
+2022-10-17 08:49:18.490136    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:49:51.019011    	Ic             	Ic = 4.51 A, n = 3.73 , Tavg = 79.52 K, pristine77K                                                 
+2022-10-17 08:50:12.312977    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:50:34.495686    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 08:50:45.183102    	Ic             	Ic = 3.44 A, n = 2.89 , Tavg = 79.55 K, pristine77K                                                 
+2022-10-17 08:51:06.375727    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:51:39.400261    	Ic             	Ic = 1.91 A, n = 1.64 , Tavg = 79.57 K, pristine77K                                                 
+2022-10-17 08:52:00.589454    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:52:34.178608    	Ic             	Ic = 3.00 A, n = 2.48 , Tavg = 79.46 K, pristine77K                                                 
+2022-10-17 08:52:55.382094    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 08:53:28.433197    	Ic             	Ic = 1.28 A, n = 1.20 , Tavg = 79.56 K, pristine77K                                                 
+2022-10-17 08:53:29.343043    	IcSequenceComplete	                                                                                                    
+2022-10-17 08:53:51.213017    	CoolingModeSet 	1                                                                                                   
+2022-10-17 08:53:51.213552    	TempSet        	20.00 K                                                                                             
+2022-10-17 08:55:34.528851    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:00:34.530109    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:05:34.516242    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:10:34.513725    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:15:34.524769    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:20:34.516872    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:25:34.491908    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:26:09.655621    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:26:36.204829    	Ic             	Ic = 68.75 A, n = 32.78 , Tavg = 25.25 K, pristine20K                                               
+2022-10-17 09:26:36.765714    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:30:34.520719    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:31:18.562195    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:31:41.052546    	Ic             	Ic = 68.74 A, n = 32.54 , Tavg = 25.27 K, pristine20K                                               
+2022-10-17 09:31:41.669429    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:35:34.489864    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:35:43.522954    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:36:06.101597    	Ic             	Ic = 69.20 A, n = 33.87 , Tavg = 25.42 K, pristine20K                                               
+2022-10-17 09:36:06.728535    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:39:17.410472    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:39:39.902193    	Ic             	Ic = 68.23 A, n = 30.92 , Tavg = 25.46 K, pristine20K                                               
+2022-10-17 09:39:40.592811    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:40:34.514588    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:41:58.419886    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:42:20.336194    	Ic             	Ic = 67.53 A, n = 27.48 , Tavg = 25.31 K, pristine20K                                               
+2022-10-17 09:42:41.448449    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:43:04.443817    	Ic             	Ic = 67.83 A, n = 29.19 , Tavg = 25.45 K, pristine20K                                               
+2022-10-17 09:43:25.607644    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:43:48.021147    	Ic             	Ic = 57.48 A, n = 9.91 , Tavg = 25.40 K, pristine20K                                                
+2022-10-17 09:44:09.358725    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:44:31.878294    	Ic             	Ic = 66.49 A, n = 25.16 , Tavg = 25.51 K, pristine20K                                               
+2022-10-17 09:44:32.753963    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:45:34.520910    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:46:20.410727    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:46:43.353249    	Ic             	Ic = 68.00 A, n = 29.44 , Tavg = 25.36 K, pristine20K                                               
+2022-10-17 09:46:43.839544    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:48:34.412237    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:49:10.159137    	Ic             	Ic = 67.60 A, n = 27.97 , Tavg = 25.22 K, pristine20K                                               
+2022-10-17 09:49:10.732073    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:50:34.495840    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:55:32.422475    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:55:34.495559    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 09:56:08.314603    	Ic             	Ic = 33.24 A, n = 3.48 , Tavg = 25.39 K, pristine20K                                                
+2022-10-17 09:56:08.937271    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:58:17.400931    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 09:58:37.233195    	Ic             	Ic = 67.80 A, n = 29.50 , Tavg = 25.20 K, pristine20K                                               
+2022-10-17 09:58:37.901318    	IcSequenceComplete	                                                                                                    
+2022-10-17 09:59:59.392565    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:00:19.918857    	Ic             	Ic = 70.89 A, n = 41.84 , Tavg = 25.26 K, pristine20K                                               
+2022-10-17 10:00:20.644913    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:00:34.487999    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:05:02.502165    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:05:22.296924    	Ic             	Ic = 62.34 A, n = 18.62 , Tavg = 25.21 K, pristine20K                                               
+2022-10-17 10:05:23.054090    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:05:34.518288    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:10:21.410455    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:10:34.491665    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:10:48.203235    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.30 K, pristine20K                                                 
+2022-10-17 10:11:09.298838    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:11:36.905719    	Ic             	Ic = 23.78 A, n = 2.22 , Tavg = 25.29 K, pristine20K                                                
+2022-10-17 10:11:57.845118    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:12:25.326907    	Ic             	Ic = 12.51 A, n = 1.35 , Tavg = 25.25 K, pristine20K                                                
+2022-10-17 10:12:25.914119    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:15:34.494936    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:15:38.421354    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:16:05.345200    	Ic             	Ic = 57.81 A, n = 11.14 , Tavg = 25.27 K, pristine20K                                               
+2022-10-17 10:16:05.894410    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:19:19.461359    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:19:38.992778    	Ic             	Ic = 70.37 A, n = 39.34 , Tavg = 25.24 K, pristine20K                                               
+2022-10-17 10:19:39.588809    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:19:55.406335    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:20:18.366096    	Ic             	Ic = 64.46 A, n = 19.08 , Tavg = 25.34 K, pristine20K                                               
+2022-10-17 10:20:19.022219    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:20:34.523333    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:23:21.386780    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:23:44.173175    	Ic             	Ic = 63.87 A, n = 19.35 , Tavg = 25.17 K, pristine20K                                               
+2022-10-17 10:23:44.805849    	IcSequenceComplete	                                                                                                    
+2022-10-17 10:25:10.376591    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 10:25:34.487828    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:30:34.488585    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:35:34.488613    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:40:34.486470    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:45:34.487839    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:50:34.499253    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 10:55:34.490165    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:00:34.487857    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:03:40.199967    	Tc             	Tcl =  nan K, Tc50 =  nan K, Tcs =  nan K, pristine                                                 
+2022-10-17 11:05:34.520916    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:07:29.910338    	CoolingModeSet 	1                                                                                                   
+2022-10-17 11:07:29.910877    	TempSet        	77.00 K                                                                                             
+2022-10-17 11:10:34.511868    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:15:34.486967    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:19:24.580369    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:19:57.940039    	Ic             	Ic = 1.31 A, n = 1.24 , Tavg = 80.13 K, pristine77K                                                 
+2022-10-17 11:19:58.476412    	IcSequenceComplete	                                                                                                    
+2022-10-17 11:20:34.519558    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:21:13.394244    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:21:46.946082    	Ic             	Ic =  nan A, n =  nan , Tavg = 79.97 K, pristine77K                                                 
+2022-10-17 11:22:08.373687    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:22:41.013552    	Ic             	Ic = 2.05 A, n = 1.51 , Tavg = 79.97 K, pristine77K                                                 
+2022-10-17 11:23:02.285950    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:23:35.879949    	Ic             	Ic = 2.82 A, n = 2.17 , Tavg = 79.91 K, pristine77K                                                 
+2022-10-17 11:23:57.374409    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:24:30.401118    	Ic             	Ic = 8.30 A, n = 21.24 , Tavg = 80.02 K, pristine77K                                                
+2022-10-17 11:24:51.550520    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:25:24.378387    	Ic             	Ic = 1.96 A, n = 1.41 , Tavg = 80.03 K, pristine77K                                                 
+2022-10-17 11:25:25.182624    	IcSequenceComplete	                                                                                                    
+2022-10-17 11:25:34.494428    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:25:41.929075    	CoolingModeSet 	1                                                                                                   
+2022-10-17 11:25:41.929634    	TempSet        	20.00 K                                                                                             
+2022-10-17 11:30:34.486168    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:35:34.490150    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:40:34.851517    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:45:34.489944    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:50:34.486227    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 11:53:31.616649    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 11:53:58.920994    	Ic             	Ic = 68.41 A, n = 30.78 , Tavg = 25.74 K, pristine20K                                               
+2022-10-17 11:53:59.672303    	IcSequenceComplete	                                                                                                    
+2022-10-17 11:55:34.501675    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:00:34.489321    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:04:37.778174    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 12:05:00.059081    	Ic             	Ic = 68.27 A, n = 31.25 , Tavg = 25.67 K, pristine20K                                               
+2022-10-17 12:05:00.627887    	IcSequenceComplete	                                                                                                    
+2022-10-17 12:05:34.515289    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:10:02.354769    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 12:10:25.018008    	Ic             	Ic = 69.86 A, n = 36.87 , Tavg = 25.38 K, pristine20K                                               
+2022-10-17 12:10:25.650824    	IcSequenceComplete	                                                                                                    
+2022-10-17 12:10:34.529901    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:10:49.834600    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 12:11:12.912672    	Ic             	Ic = 68.14 A, n = 30.59 , Tavg = 25.47 K, pristine20K                                               
+2022-10-17 12:11:13.597550    	IcSequenceComplete	                                                                                                    
+2022-10-17 12:15:34.491716    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:20:34.937416    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:25:34.496461    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:30:34.520888    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:32:16.377920    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 12:35:34.499642    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:40:34.491849    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:45:34.491194    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:50:34.492091    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 12:55:34.491898    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:00:34.489918    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:05:34.491853    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:06:20.883285    	Tc             	Tcl =  nan K, Tc50 = 2.00 K, Tcs = 0.00 K, pristine                                                 
+2022-10-17 13:10:26.269851    	CoolingModeSet 	1                                                                                                   
+2022-10-17 13:10:26.270689    	TempSet        	77.00 K                                                                                             
+2022-10-17 13:10:34.529433    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:15:34.525250    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:20:34.494776    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:25:34.492217    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:30:34.494351    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:35:34.491085    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:40:34.524882    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:45:34.530423    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:50:34.498742    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 13:55:34.492413    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:00:34.524801    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:05:34.534255    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:10:34.492539    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:15:34.532191    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:20:34.495171    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:25:34.520813    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:30:34.529670    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:35:34.536808    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:40:34.493980    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:45:34.524757    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:50:34.536602    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 14:55:34.499217    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:00:34.526998    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:05:34.493878    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:10:34.535699    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:15:34.498182    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:20:34.536521    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:25:34.961617    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:30:34.526610    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:35:34.496181    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:40:34.504612    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:45:34.494717    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:50:34.494887    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 15:55:34.495957    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:00:34.495629    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:05:34.507430    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:10:34.530118    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:15:34.496054    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:19:45.809900    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 16:20:19.347214    	Ic             	Ic =  nan A, n =  nan , Tavg = 79.88 K, pristine77K                                                 
+2022-10-17 16:20:19.929011    	IcSequenceComplete	                                                                                                    
+2022-10-17 16:20:34.882398    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:20:48.272764    	TempSet        	77.00 K                                                                                             
+2022-10-17 16:23:22.924084    	CoolingModeSet 	1                                                                                                   
+2022-10-17 16:23:22.924640    	TempSet        	20.00 K                                                                                             
+2022-10-17 16:25:34.494396    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:30:34.495154    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:35:34.499635    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:40:34.514017    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:45:34.537185    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:50:34.495526    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 16:55:34.501822    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:00:34.496278    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:05:34.534696    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:10:34.516424    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:15:34.515735    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:17:01.576304    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 17:17:28.358239    	Ic             	Ic = 66.09 A, n = 23.94 , Tavg = 25.27 K, pristine20K                                               
+2022-10-17 17:17:28.972292    	IcSequenceComplete	                                                                                                    
+2022-10-17 17:18:01.436638    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 17:18:19.153109    	Ic             	Ic = 68.13 A, n = 30.57 , Tavg = 25.29 K, pristine20K                                               
+2022-10-17 17:18:19.847919    	IcSequenceComplete	                                                                                                    
+2022-10-17 17:20:34.538685    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:25:34.496451    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:30:34.497349    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:35:34.498005    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:40:34.517485    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:45:34.496787    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:50:34.532189    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 17:55:34.546703    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:00:34.497833    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:05:34.497842    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:10:34.496661    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:15:34.531480    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:20:34.497790    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:25:34.532205    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:30:34.511538    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:35:34.500043    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:40:34.553632    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:45:34.498707    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:50:34.532163    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 18:55:34.525138    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:00:34.510497    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:05:34.540375    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:10:34.498598    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:15:34.499202    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:20:34.498747    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:25:34.507475    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:30:34.536477    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:35:34.534403    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:40:34.499746    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:45:34.519419    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:50:34.536398    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 19:55:34.542741    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:00:34.539496    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:05:34.500236    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:10:34.533247    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:15:34.545189    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:20:34.539074    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:25:34.534454    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:30:34.500022    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:35:34.500823    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:40:34.539429    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:45:34.533249    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:50:34.542048    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 20:55:34.522571    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:00:34.539001    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:05:34.500589    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:10:34.501629    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:15:34.540883    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:20:34.530846    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:25:34.537057    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:30:34.529077    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:35:34.501948    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:40:34.535785    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:45:34.500095    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:50:34.502037    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 21:55:34.501466    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:00:34.502641    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:03:19.459400    	ShutterToggle  	Open = False                                                                                        
+2022-10-17 22:03:37.184490    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.14 K, pristine20K                                                 
+2022-10-17 22:03:38.073868    	IcSequenceComplete	                                                                                                    
+2022-10-17 22:05:34.556713    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:10:34.509789    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:15:34.510481    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:20:34.545106    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:25:34.507589    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:30:34.515077    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:35:34.508139    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:40:34.506488    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:45:34.505121    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:50:34.542644    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 22:55:34.565130    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:00:34.509179    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:05:34.505330    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:10:34.505298    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:15:34.550992    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:20:34.506047    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:25:34.555106    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:30:34.571798    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:35:34.536246    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:40:34.506394    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:45:34.505283    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:50:34.555479    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-17 23:55:34.557992    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:00:34.548525    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:05:34.506769    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:10:34.504262    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:15:34.503895    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:20:34.503825    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:25:34.513607    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:30:34.503060    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:35:34.503589    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:40:34.507578    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:45:34.503843    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:50:34.520601    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 00:55:34.502373    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:00:34.554461    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:05:34.555938    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:10:34.504995    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:15:34.509901    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:20:34.504518    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:25:34.506234    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:30:34.506074    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:35:34.506857    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:40:34.560998    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:45:34.505201    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:50:34.507400    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 01:55:34.505430    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:00:34.506321    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:05:34.505738    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:10:34.505446    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:15:34.505699    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:20:34.507138    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:25:34.507025    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:30:34.509453    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:35:34.506491    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:40:34.523041    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:45:34.509744    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:50:34.509330    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 02:55:34.512195    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:00:34.506588    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:05:34.507740    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:10:34.508045    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:15:34.507184    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:20:34.506744    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:25:34.506491    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:30:34.506898    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:35:34.563874    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:40:34.506897    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:45:34.508059    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:50:34.510832    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 03:55:34.510559    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:00:34.506888    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:05:34.507325    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:10:34.509644    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:15:34.509083    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:20:34.510842    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:25:34.506832    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:30:34.508853    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:35:34.508377    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:40:34.508037    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:45:34.517440    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:50:34.506925    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 04:55:34.509139    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:00:34.507551    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:05:34.511240    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:10:34.513244    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:15:34.508885    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:20:34.509009    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:25:34.510022    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:30:34.509142    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:35:34.568750    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:40:34.509367    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:45:34.514111    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:50:34.554491    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 05:55:34.534180    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:00:34.509188    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:05:34.508258    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:10:34.511627    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:15:34.514665    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:20:34.508537    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:25:34.509402    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:30:34.509736    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:35:34.511732    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:40:34.511062    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:45:34.511007    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:50:34.512244    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 06:55:34.514323    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:00:34.511293    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:05:34.509655    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:10:34.509182    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:15:34.509948    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:20:34.511560    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:25:34.514946    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:30:34.512020    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:35:34.515154    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:40:34.512590    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:45:34.513468    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:50:34.512221    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 07:55:34.510340    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:00:34.512476    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:05:34.513376    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:10:34.533427    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:15:34.516078    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:20:34.512048    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:25:34.514920    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:30:34.527244    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:35:34.512269    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:40:34.512556    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:45:34.511391    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:50:34.511942    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 08:55:34.513118    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:00:34.512788    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:05:34.512994    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:10:34.513298    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:15:34.514499    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:20:34.512208    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:25:34.513389    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:30:34.512503    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:35:34.514777    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:40:34.512267    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:45:34.513657    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:50:34.522184    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 09:55:34.515215    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:00:34.520128    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:05:34.514790    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:10:34.513163    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:15:34.514845    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:20:34.514295    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:25:34.516813    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:30:34.513872    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:35:34.514828    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:40:34.513325    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:45:34.515789    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:50:34.512784    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 10:55:34.536813    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 11:00:34.514273    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 11:05:34.515323    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 11:11:24.361719    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 11:17:49.693966    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 11:24:04.670664    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-18 11:30:23.825353    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-19 15:20:31.266368    	SessionStart   	Continued after GUI restart: What experiments are you conducting today?                             
+2022-10-19 15:20:33.032713    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-19 15:25:33.319096    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:25:58.525955    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:26:27.669223    	Ic             	Ic = 64.60 A, n = 19.44 , Tavg = 26.27 K, pristine20Ktarget                                         
+2022-10-19 15:26:28.210309    	IcSequenceComplete	                                                                                                    
+2022-10-19 15:27:00.602252    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:27:21.873899    	Ic             	Ic = 68.07 A, n = 29.41 , Tavg = 26.31 K, pristine20Ktarget                                         
+2022-10-19 15:27:22.416854    	IcSequenceComplete	                                                                                                    
+2022-10-19 15:28:31.311256    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:28:56.695917    	Ic             	Ic = 69.89 A, n = 36.29 , Tavg = 26.29 K, pristine20Ktarget                                         
+2022-10-19 15:28:57.271382    	IcSequenceComplete	                                                                                                    
+2022-10-19 15:29:16.020613    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:29:42.719512    	Ic             	Ic = 69.65 A, n = 35.67 , Tavg = 26.19 K, pristine20Ktarget                                         
+2022-10-19 15:29:43.183007    	IcSequenceComplete	                                                                                                    
+2022-10-19 15:30:33.320073    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:32:48.502729    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:33:14.684450    	Ic             	Ic = 69.70 A, n = 34.88 , Tavg = 26.20 K, pristine20Ktarget                                         
+2022-10-19 15:33:15.213811    	IcSequenceComplete	                                                                                                    
+2022-10-19 15:35:33.325528    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:40:33.331429    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:45:33.308505    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:50:33.334615    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:55:33.331121    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 15:56:07.072606    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:56:29.949783    	Ic             	Ic = 69.46 A, n = 34.38 , Tavg = 25.92 K, pristine20Ktarget                                         
+2022-10-19 15:56:30.596995    	IcSequenceComplete	                                                                                                    
+2022-10-19 15:57:07.110302    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 15:57:29.956961    	Ic             	Ic = 70.29 A, n = 37.97 , Tavg = 25.94 K, pristine20Ktarget                                         
+2022-10-19 15:57:30.551269    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:00:33.317030    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:05:33.313893    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:10:33.317842    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:14:46.089820    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 16:15:33.314844    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:20:33.334323    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:20:50.280018    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:21:18.088519    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:21:44.689315    	Ic             	Ic = 67.62 A, n = 28.14 , Tavg = 25.78 K, 20Ktargetstep1                                            
+2022-10-19 16:21:45.248014    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:22:29.092964    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:22:51.769761    	Ic             	Ic = 68.21 A, n = 30.58 , Tavg = 25.82 K, 20Ktargetstep1                                            
+2022-10-19 16:22:52.315758    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:25:33.319044    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:29:49.636988    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:30:12.689022    	Ic             	Ic = 68.22 A, n = 29.87 , Tavg = 25.73 K, 20Ktargetstep1                                            
+2022-10-19 16:30:13.379334    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:30:33.313492    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:31:24.144431    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 16:32:03.042067    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:32:03.657430    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 16:32:11.421617    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:32:44.384827    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:33:07.168759    	Ic             	Ic = 68.54 A, n = 31.13 , Tavg = 25.66 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:33:07.873037    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:33:17.142758    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:33:39.861295    	Ic             	Ic = 69.04 A, n = 33.49 , Tavg = 25.87 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:33:40.491248    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:34:17.153845    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:34:39.834505    	Ic             	Ic = 69.85 A, n = 36.23 , Tavg = 25.66 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:34:40.497757    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:35:02.123905    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:35:24.709001    	Ic             	Ic = 69.27 A, n = 33.81 , Tavg = 25.87 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:35:25.426870    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:35:33.316414    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:35:38.319794    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:36:00.785754    	Ic             	Ic = 68.84 A, n = 31.93 , Tavg = 25.86 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:36:01.744105    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:37:09.121772    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:37:31.720795    	Ic             	Ic = 69.95 A, n = 37.08 , Tavg = 25.79 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:37:32.563304    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:37:50.061755    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:38:12.686489    	Ic             	Ic = 69.38 A, n = 34.43 , Tavg = 25.87 K, 20Ktargetstep1b15sec                                      
+2022-10-19 16:38:13.560293    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:39:58.141214    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 16:40:33.318267    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:43:33.112156    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:43:59.627830    	Ic             	Ic = 67.55 A, n = 29.05 , Tavg = 25.68 K, 20Ktargetstep2                                            
+2022-10-19 16:44:00.543075    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:45:15.324311    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:45:33.297164    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:45:37.674015    	Ic             	Ic = 69.11 A, n = 34.75 , Tavg = 25.72 K, 20Ktargetstep2                                            
+2022-10-19 16:45:38.684641    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:45:56.096900    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:46:18.696136    	Ic             	Ic = 68.74 A, n = 33.73 , Tavg = 25.83 K, 20Ktargetstep2                                            
+2022-10-19 16:46:19.739229    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:46:34.166552    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 16:50:33.302177    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:50:34.211537    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:50:54.185197    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:51:20.684857    	Ic             	Ic = 68.38 A, n = 35.35 , Tavg = 25.78 K, 20Ktargetstep3                                            
+2022-10-19 16:51:21.702572    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:51:40.592666    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:52:02.789808    	Ic             	Ic = 64.67 A, n = 24.04 , Tavg = 25.81 K, 20Ktargetstep3                                            
+2022-10-19 16:52:03.864625    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:55:03.416300    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:55:25.699762    	Ic             	Ic = 65.95 A, n = 26.83 , Tavg = 25.67 K, 20Ktargetstep3                                            
+2022-10-19 16:55:26.836388    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:55:33.360935    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:55:33.650294    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 16:55:55.203726    	Ic             	Ic = 67.42 A, n = 31.71 , Tavg = 25.68 K, 20Ktargetstep3                                            
+2022-10-19 16:55:56.446802    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:56:56.178486    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:57:18.661784    	Ic             	Ic = 68.81 A, n = 37.65 , Tavg = 25.82 K, 20Ktargetstep3                                            
+2022-10-19 16:57:19.945049    	IcSequenceComplete	                                                                                                    
+2022-10-19 16:57:40.333190    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 16:58:02.182963    	Ic             	Ic = 68.38 A, n = 35.98 , Tavg = 25.86 K, 20Ktargetstep3                                            
+2022-10-19 16:58:03.479358    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:00:33.321972    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:03:06.281975    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 17:05:33.330178    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:10:33.269191    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:15:33.269618    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:15:55.379571    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:16:14.254676    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:16:40.107279    	Ic             	Ic = 20.59 A, n = 2.30 , Tavg = 25.87 K, 20Ktargetstep4                                             
+2022-10-19 17:16:41.413925    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:17:27.212104    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:17:49.754488    	Ic             	Ic = 63.07 A, n = 32.17 , Tavg = 25.85 K, 20Ktargetstep4                                            
+2022-10-19 17:17:51.092692    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:17:57.189790    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:18:19.757289    	Ic             	Ic = 63.08 A, n = 32.78 , Tavg = 25.87 K, 20Ktargetstep4                                            
+2022-10-19 17:18:21.197173    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:19:32.218306    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:19:53.911269    	Ic             	Ic = 62.62 A, n = 30.31 , Tavg = 25.86 K, 20Ktargetstep4                                            
+2022-10-19 17:19:55.388816    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:20:33.297771    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:20:57.632285    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:21:19.778283    	Ic             	Ic = 63.61 A, n = 34.70 , Tavg = 25.82 K, 20Ktargetstep4                                            
+2022-10-19 17:21:21.356720    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:21:46.153608    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:22:08.705449    	Ic             	Ic = 63.77 A, n = 35.28 , Tavg = 25.85 K, 20Ktargetstep4                                            
+2022-10-19 17:22:10.250804    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:22:16.437105    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 17:25:33.269657    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:30:33.294400    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:35:33.271371    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:35:45.278850    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:36:10.819908    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.87 K, 20Ktargetstep5                                              
+2022-10-19 17:36:12.439105    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:36:42.218687    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:37:03.879984    	Ic             	Ic = 57.09 A, n = 28.31 , Tavg = 25.91 K, 20Ktargetstep5                                            
+2022-10-19 17:37:05.834422    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:37:15.164012    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:37:36.511345    	Ic             	Ic = 58.82 A, n = 35.95 , Tavg = 25.94 K, 20Ktargetstep5                                            
+2022-10-19 17:37:38.244804    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:37:47.443793    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:38:08.852604    	Ic             	Ic = 57.93 A, n = 31.46 , Tavg = 25.96 K, 20Ktargetstep5                                            
+2022-10-19 17:38:10.542182    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:38:15.826092    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:38:37.336033    	Ic             	Ic = 56.28 A, n = 24.88 , Tavg = 26.00 K, 20Ktargetstep5                                            
+2022-10-19 17:38:39.056365    	IcSequenceComplete	                                                                                                    
+2022-10-19 17:40:33.276693    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:44:07.557396    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 17:45:33.269089    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:50:33.266149    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 17:55:33.267670    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:00:33.265630    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:05:33.278125    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:10:33.271388    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:15:33.308119    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:20:33.266305    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:25:33.267368    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:30:33.281277    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:35:33.270666    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:40:33.296548    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:45:33.299608    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:45:51.752029    	Tc             	Tcl =  nan K, Tc50 =  nan K, Tcs =  nan K, afterstep6                                               
+2022-10-19 18:46:34.985850    	CoolingModeSet 	1                                                                                                   
+2022-10-19 18:46:34.986472    	TempSet        	77.00 K                                                                                             
+2022-10-19 18:50:33.271442    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 18:55:33.279658    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:00:33.281921    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:02:10.256215    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:02:31.191434    	Ic             	Ic = 4.23 A, n = 17.19 , Tavg = 79.34 K, 77Ktargetstep6                                             
+2022-10-19 19:02:31.782560    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:02:56.213819    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:03:33.055560    	Ic             	Ic = 4.18 A, n = 16.48 , Tavg = 79.32 K, 77Ktargetstep6                                             
+2022-10-19 19:03:54.155291    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:04:30.816143    	Ic             	Ic = 4.34 A, n = 19.67 , Tavg = 79.33 K, 77Ktargetstep6                                             
+2022-10-19 19:04:52.090683    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:05:28.819205    	Ic             	Ic = 4.21 A, n = 17.46 , Tavg = 79.35 K, 77Ktargetstep6                                             
+2022-10-19 19:05:33.301709    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:05:50.107928    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:06:27.048917    	Ic             	Ic = 4.18 A, n = 17.13 , Tavg = 79.36 K, 77Ktargetstep6                                             
+2022-10-19 19:06:48.261901    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:07:24.754699    	Ic             	Ic = 1.89 A, n = 2.77 , Tavg = 79.35 K, 77Ktargetstep6                                              
+2022-10-19 19:07:25.592900    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:09:02.080458    	CoolingModeSet 	1                                                                                                   
+2022-10-19 19:09:02.080990    	TempSet        	20.00 K                                                                                             
+2022-10-19 19:10:33.270422    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:15:33.269196    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:20:33.272765    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:25:33.269719    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:30:33.272234    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:35:33.269433    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:40:33.271359    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:41:27.157125    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:41:51.111501    	Ic             	Ic = 58.59 A, n = 33.20 , Tavg = 25.91 K, 20Ktargetstep6                                            
+2022-10-19 19:41:51.769690    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:42:23.574786    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:42:44.757705    	Ic             	Ic = 58.70 A, n = 33.60 , Tavg = 25.90 K, 20Ktargetstep6                                            
+2022-10-19 19:42:45.404092    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:43:19.514785    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:43:40.770707    	Ic             	Ic = 58.12 A, n = 31.03 , Tavg = 25.89 K, 20Ktargetstep6                                            
+2022-10-19 19:43:41.602900    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:43:49.286015    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:44:10.117640    	Ic             	Ic = 58.78 A, n = 34.31 , Tavg = 25.91 K, 20Ktargetstep6                                            
+2022-10-19 19:44:10.898715    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:45:33.288786    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:46:39.413696    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 19:50:33.282675    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:55:33.279071    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 19:58:33.256118    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:58:55.710332    	Ic             	Ic = 52.53 A, n = 31.34 , Tavg = 25.90 K, 20Ktargetstep7                                            
+2022-10-19 19:58:56.616957    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:59:15.171041    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 19:59:37.744164    	Ic             	Ic = 52.56 A, n = 31.12 , Tavg = 25.89 K, 20Ktargetstep7                                            
+2022-10-19 19:59:38.625840    	IcSequenceComplete	                                                                                                    
+2022-10-19 19:59:45.627044    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:00:07.730509    	Ic             	Ic = 52.42 A, n = 30.68 , Tavg = 25.91 K, 20Ktargetstep7                                            
+2022-10-19 20:00:08.735902    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:00:13.172026    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:00:33.279513    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 20:00:35.117630    	Ic             	Ic = 52.76 A, n = 32.36 , Tavg = 25.94 K, 20Ktargetstep7                                            
+2022-10-19 20:00:36.192368    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:00:42.197225    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:01:04.068469    	Ic             	Ic = 52.67 A, n = 32.13 , Tavg = 25.88 K, 20Ktargetstep7                                            
+2022-10-19 20:01:05.121593    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:01:09.292555    	ShutterToggle  	Open = True                                                                                         
+2022-10-19 20:05:33.304241    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 20:10:33.271668    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 20:13:54.278141    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:14:17.288138    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:14:53.864343    	Ic             	Ic = 46.04 A, n = 27.53 , Tavg = 25.89 K, 20Ktargetstep8                                            
+2022-10-19 20:14:55.006473    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:15:31.489598    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:15:33.277308    	Backup         	Temperature and heater power True; pressure True; voltage True                                      
+2022-10-19 20:15:59.791914    	Ic             	Ic = 46.31 A, n = 28.98 , Tavg = 25.89 K, 20Ktargetstep8                                            
+2022-10-19 20:16:00.967159    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:16:06.223468    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:16:34.745752    	Ic             	Ic = 46.23 A, n = 28.71 , Tavg = 25.94 K, 20Ktargetstep8                                            
+2022-10-19 20:16:35.986198    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:17:00.628362    	ShutterToggle  	Open = False                                                                                        
+2022-10-19 20:17:26.676146    	Ic             	Ic =  nan A, n =  nan , Tavg =  nan K, 20Ktargetstep8                                               
+2022-10-19 20:17:54.304498    	IcSequenceComplete	                                                                                                    
+2022-10-19 20:19:27.435632    	Backup         	Temperature and heater power True; pressure True; voltage True                                      

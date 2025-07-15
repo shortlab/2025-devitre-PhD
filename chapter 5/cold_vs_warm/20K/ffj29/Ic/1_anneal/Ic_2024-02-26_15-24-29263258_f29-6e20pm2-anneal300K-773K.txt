@@ -1,0 +1,2 @@
+# Ic =  nan A, n =  nan , Tavg = 77.27 K, f29-6e20pm2-anneal300K-773K
+#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K

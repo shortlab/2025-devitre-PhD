@@ -1,0 +1,6 @@
+plot "/home/david/Desktop/ASC2022/anneal/2022-10-22_05:53:51.633607_12iRTanneal/Ic/Ic_2022-10-24_12-15-25545169_after2ndRTanneal.txt" u 3:4,\
+"/home/david/Desktop/ASC2022/anneal/2022-10-22_05:53:51.633607_12iRTanneal/Ic/Ic_2022-10-24_12-16-30579630_after2ndRTanneal.txt" u 3:4,\
+"/home/david/Desktop/ASC2022/anneal/2022-10-22_05:53:51.633607_12iRTanneal/Ic/Ic_2022-10-24_12-17-18429912_after2ndRTanneal.txt" u 3:4,\
+"/home/david/Desktop/ASC2022/anneal/2022-10-22_05:53:51.633607_12iRTanneal/Ic/Ic_2022-10-24_12-18-07446663_after2ndRTanneal.txt" u 3:4,\
+"/home/david/Desktop/ASC2022/anneal/2022-10-22_05:53:51.633607_12iRTanneal/Ic/Ic_2022-10-24_12-18-57227432_after2ndRTanneal.txt" u 3:4,\
+"/home/david/Desktop/ASC2022/anneal/2022-10-22_05:53:51.633607_12iRTanneal/Ic/Ic_2022-10-24_12-19-45333444_after2ndRTanneal.txt" u 3:4
