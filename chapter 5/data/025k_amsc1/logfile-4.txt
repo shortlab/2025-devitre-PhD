@@ -1,0 +1,17 @@
+2022-10-20 09:59:09.174373    	SessionStart   	New session started: What experiments are you conducting today?                                     
+2022-10-20 09:59:11.468973    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-20 10:00:32.160009    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:01:19.619764    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:01:54.256713    	Ic             	Ic = 1.40 A, n = 1.02 , Tavg = 25.37 K, 20Kafterstep16                                              
+2022-10-20 10:01:54.859523    	IcSequenceComplete	                                                                                                    
+2022-10-20 10:02:18.197584    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:02:52.690213    	Ic             	Ic = 1.32 A, n = 1.02 , Tavg = 25.46 K, 20Kafterstep16                                              
+2022-10-20 10:03:13.701593    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:03:50.270283    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.45 K, 20Kafterstep16                                              
+2022-10-20 10:04:11.471044    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:04:12.134331    	Backup         	Temperature and heater power True; pressure False; voltage True                                     
+2022-10-20 10:04:47.221275    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.45 K, 20Kafterstep16                                              
+2022-10-20 10:05:08.447591    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:05:42.850365    	Ic             	Ic =  nan A, n =  nan , Tavg = 25.37 K, 20Kafterstep16                                              
+2022-10-20 10:06:04.104817    	ShutterToggle  	Open = False                                                                                        
+2022-10-20 10:09:11.830138    	Backup         	Temperature and heater power True; pressure False; voltage True                                     

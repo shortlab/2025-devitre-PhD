@@ -1,0 +1,31 @@
+2022-10-21 21:35:25.402984    	SessionStart   	New session started: What experiments are you conducting today?                                     
+2022-10-21 21:35:26.983141    	Startup        	Session started: What experiments are you conducting today?                                         
+2022-10-21 21:40:26.600673    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 21:45:26.571392    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 21:50:26.571022    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 21:55:26.572901    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 21:57:05.057224    	ShutterToggle  	Open = True                                                                                         
+2022-10-21 21:57:08.960719    	ShutterToggle  	Open = False                                                                                        
+2022-10-21 21:57:11.268819    	ShutterToggle  	Open = True                                                                                         
+2022-10-21 22:00:26.569367    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:05:26.579054    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:10:26.592349    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:15:26.598267    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:20:26.609670    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:25:26.621866    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:30:26.641667    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:35:26.726917    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:40:26.643667    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:45:26.663124    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:50:26.717972    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 22:55:26.724113    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:00:26.745824    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:05:26.742978    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:10:26.682661    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:15:26.648074    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:20:26.617529    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:25:26.629928    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:30:26.590337    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:35:26.630779    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:40:26.610982    	Backup         	Temperature and heater power True; pressure False; voltage False                                    
+2022-10-21 23:45:26.699344    	Backup         	Temperature and heater power True; pressure False; voltage False                                    

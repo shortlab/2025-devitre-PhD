@@ -1,3 +1,0 @@
-# Ic =  nan A, n =  nan , Tavg = 69.82 K, f28-60e19pm2-1200keV-0nA-70k-Afteranneal70k_peak
-#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K
-0202-03-09_15:20:55.855000      54944.32        1.30510600e-02        5.16283751e-05  69.8167  68.7122
